@@ -1,7 +1,7 @@
 {
     "contacts":[
         {
-            "id":0,
+            "id":"0",
             "firstName":"Azeem",
             "lastName":"Chauhan",
             "avatarUrl":"https://randomuser.me/api/portraits/men/0.jpg",
@@ -11,7 +11,7 @@
             }
         },
         {
-            "id":1,
+            "id":"1",
             "firstName":"Azeem",
             "lastName":"Chauhan",
             "avatarUrl":"https://randomuser.me/api/portraits/men/0.jpg",
@@ -21,7 +21,7 @@
             }
         },
         {
-            "id":2,
+            "id":"2",
             "firstName":"Azeem",
             "lastName":"Chauhan",
             "avatarUrl":"https://randomuser.me/api/portraits/men/0.jpg",
