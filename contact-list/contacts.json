@@ -4,6 +4,7 @@
             "phone":"8010669904",
             "name":"Azeem Chauhan",
             "avatar":"https://randomuser.me/api/portraits/men/0.jpg",
+            "email":"azeemchauhan@gmail.com",
             "mobile":{
                 "personal":"+91-905851655",
                 "work":"+91-8010669904"
@@ -13,6 +14,7 @@
             "phone":"8010669905",
             "name":"John Dohen",
             "avatar":"https://randomuser.me/api/portraits/men/1.jpg",
+            "email":"john@gmail.com",
             "mobile":{
                 "personal":"+91-905851655",
                 "work":"+91-8010669904"
@@ -22,6 +24,7 @@
             "phone":"8010669906",
             "name":"Chole Moretez",
             "avatar":"https://randomuser.me/api/portraits/men/2.jpg",
+            "email":"cholemrtz@gmail.com",
             "mobile":{
                 "personal":"+91-905851655",
                 "work":"+91-8010669904"
